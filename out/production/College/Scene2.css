@@ -1,0 +1,23 @@
+.root {
+    -fx-background-image: url("sample/back.jpg");
+    -fx-background-size: 1000, 290;
+    -fx-background-repeat: no-repeat;
+    -fx-font-size: 11pt;
+    -fx-text-alignment: center;
+    -fx-text-fill: black;
+}
+
+.label {
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+
+}
+
+.background-pane {
+    -fx-background-image: url("sample/back.jpg");
+    -fx-background-size: 1000, 290;
+    -fx-background-repeat: no-repeat;
+}
+.table-column {
+    -fx-alignment: CENTER;
+}
